@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 
 const Blog = ({ blog, handleAddedBookMarks, handleMarkAsRead }) => {
-    const { title, cover, author, author_img, reading_time, posted_date, hashtags } = blog;
+    const { id, title, cover, author, author_img, reading_time, posted_date, hashtags } = blog;
 
     return (
         <div className='mb-12'>
@@ -26,7 +26,7 @@ const Blog = ({ blog, handleAddedBookMarks, handleMarkAsRead }) => {
                     hashtags.map((hash, idx) => <span key={idx}> <a href="">#{hash}</a></span>)
                 }
             </p>
-            <button onClick={() => handleMarkAsRead(reading_time)} className='text-purple-800 underline mt-3 font-bold'>Mark As Read</button>
+            <button onClick={() => handleMarkAsRead(id, reading_time)} className='text-purple-800 underline mt-3 font-bold'>Mark As Read</button>
         </div>
     );
 };
