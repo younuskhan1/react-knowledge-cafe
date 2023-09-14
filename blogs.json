@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/SQh7RM0/coverphoto4.jpg",
+        "title": "The Secret Garden",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co/3fCNJNL/author-img1.jpg",
+        "posted_date": "12-09-2023",
+        "reading_time": 15,
+        "hashtags": [
+            "fiction",
+            "nature",
+            "magic"
+        ]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/qxYwQNP/coverphoto2.jpg",
+        "title": "The Art of Cooking",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/r4XfRWP/author-img2.jpg",
+        "posted_date": "11-09-2023",
+        "reading_time": 20,
+        "hashtags": [
+            "cooking",
+            "recipes",
+            "food"
+        ]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/fFtNShQ/coverphoto3.jpg",
+        "title": "The Mystery of the Lost City",
+        "author": "Alicia Johnson",
+        "author_img": "https://i.ibb.co/3zwQG5p/author-img3.jpg",
+        "posted_date": "10-09-2023",
+        "reading_time": 30,
+        "hashtags": [
+            "adventure",
+            "mystery",
+            "exploration"
+        ]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/SQh7RM0/coverphoto4.jpg",
+        "title": "Tech Trends 2023",
+        "author": "David Lee",
+        "author_img": "https://i.ibb.co/8m4QRxv/author-img4.jpg",
+        "posted_date": "09-09-2023",
+        "reading_time": 10,
+        "hashtags": [
+            "technology",
+            "innovation",
+            "trends"
+        ]
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/NsBRmCj/coverphoto5.jpg",
+        "title": "Health and Wellness",
+        "author": "Emily Rogers",
+        "author_img": "https://i.ibb.co/4ZpRWFQ/author-img5.jpg",
+        "posted_date": "08-09-2023",
+        "reading_time": 25,
+        "hashtags": [
+            "health",
+            "wellness",
+            "lifestyle"
+        ]
+    }
+]
